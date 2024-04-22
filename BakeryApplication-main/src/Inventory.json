@@ -1,0 +1,9 @@
+{
+    "Flour": { "quantity": 5000, "unit": "g", "costPerUnit": 0.5, "caloriesPerUnit": 19 },
+    "Sugar": { "quantity": 3000, "unit": "g", "costPerUnit": 0.8, "caloriesPerUnit": 48 },
+    "Butter": { "quantity": 2000, "unit": "g", "costPerUnit": 1.2, "caloriesPerUnit": 39 },
+    "ChocolateChips": { "quantity": 1000, "unit": "g", "costPerUnit": 2.5, "caloriesPerUnit": 26 },
+    "VanillaExtract": { "quantity": 500, "unit": "ml", "costPerUnit": 3.0, "caloriesPerUnit": 8 },
+    "BakingPowder": { "quantity": 200, "unit": "g", "costPerUnit": 0.3, "caloriesPerUnit": 12 },
+    "Oil": { "quantity": 2000, "unit": "ml", "costPerUnit": 1.2, "caloriesPerUnit": 32 }
+}
